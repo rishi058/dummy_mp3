@@ -6,7 +6,7 @@ Single Page Mp3 Player Flutter project.
 
 This project is a starting point for a Music application.
 
-Duckcart Assignment
+Internshala Assignment 1
 
 ## Download it From -->
 
