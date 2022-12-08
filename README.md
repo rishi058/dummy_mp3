@@ -14,7 +14,7 @@ Duckcart Assignment
  
  ## ScreenShot
  
-  <img src="https://user-images.githubusercontent.com/97884033/206364978-fa802f5d-dfea-4bf7-be88-d7e89281960b.jpg"/>
+  <img src="https://user-images.githubusercontent.com/97884033/206364978-fa802f5d-dfea-4bf7-be88-d7e89281960b.jpg" width="250" height="600"/>
 
 
 ## Video 
